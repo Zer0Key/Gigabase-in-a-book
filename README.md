@@ -11,5 +11,6 @@
   - Self-balancing train un-loader and loader(essential with robot setup), many-to-many requester and provider and generic city blocks.
 - There are no blueprints for: HUB, military science, modules, uranium processing, solar blocks or any other form of power production.
   - Those will follow eventually.
+- Nixi Tubes mod and water fill mod are requirements
 
 ![Preview snippet](https://imgur.com/8ipbnxI)
